@@ -1,11 +1,11 @@
-<h1> Hi! Meu nome é Sabrinando </h1>
 <h1> Hi! My name is Fernando. </h1>
+
 <div>
-  
-  <img height="180em"   align="center" src="https://https://github.com/sabrinando/api?username=sabrinando&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/sabrinando">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=sabrinando&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinando&layout=compact&langs_count=7&theme=react" />
 
-  <img src="https://sm.ign.com/ign_br/screenshot/default/06_r4d9.jpg" alt="Os Cavaleiros do Zodíaco: Ranqueamos os 12 Cavaleiros de Ouro do pior ao  melhor" jsname="HiaYvf" jsaction="load:XAeZkd;" class="n3VNCb" data-noaft="1" style="width: 400px; height: 303.125px; margin: 20.0375px 0px;">
+  <img data-visualcompletion="media-vc-image" alt="Pode ser uma imagem de 1 pessoa" class="ji94ytn4 r9f5tntg d2edcug0 r0294ipz" referrerpolicy="origin-when-cross-origin" src="https://scontent.fsdu29-1.fna.fbcdn.net/v/t1.18169-9/25396013_10210864650472041_5123248007750918053_n.jpg?_nc_cat=102&amp;ccb=1-5&amp;_nc_sid=174925&amp;_nc_ohc=6_tnZlnSB6oAX-0Qj4H&amp;tn=kKG8i0WuDYAqHFOg&amp;_nc_ht=scontent.fsdu29-1.fna&amp;oh=ffb508a739abe32698094f6ca4a744f8&amp;oe=61941B5A">
 </div>
  <br>
 <div  align="center"> 
