@@ -2,10 +2,10 @@
 <h1> Hi! My name is Fernando. </h1>
 <div>
   
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=sabrinando&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"   align="center" src="https://https://github.com/sabrinando/api?username=sabrinando&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinando&layout=compact&langs_count=7&theme=react" />
 
-  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
+  <img src="https://sm.ign.com/ign_br/screenshot/default/06_r4d9.jpg" alt="Os Cavaleiros do Zodíaco: Ranqueamos os 12 Cavaleiros de Ouro do pior ao  melhor" jsname="HiaYvf" jsaction="load:XAeZkd;" class="n3VNCb" data-noaft="1" style="width: 400px; height: 303.125px; margin: 20.0375px 0px;">
 </div>
  <br>
 <div  align="center"> 
